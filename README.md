@@ -14,6 +14,6 @@ and interpret your results.<br/>
     b. Multicollinearity<br/>
     c. Normality of the error term<br/>
     d. Omitted-Variable Bias<br/>
-    5. Based on results of Question 4, use the remedies to address the issues identified and alter your
-    model suitably.<br/>
+5. Based on results of Question 4, use the remedies to address the issues identified and alter your
+model suitably.<br/>
 6. For your model, run two joint tests (F-test) giving justification for the same. Interpret the results.<br/>
