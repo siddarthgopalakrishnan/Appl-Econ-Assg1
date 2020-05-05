@@ -1,0 +1,7 @@
+VIF test - value = 1.smth. No multicollinearity
+
+bptest(ols) - p value = 0.00002. There is heteroskedasticity
+
+resettest - 0.005. there are ommitted variables
+
+normality assumption - violates all tests for normality. regression doesn't follow ols assumptions
